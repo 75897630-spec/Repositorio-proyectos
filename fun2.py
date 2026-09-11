@@ -1,6 +1,6 @@
 #BLOQUE IF
 def detectarTemperatura(lectura):
- if temperatura == 17:
+ if temperatura == 18:
     #Acciones si es verdadero.
     print("es verdad, estoy dentro de la estructura de control IF")
     temperatura=temperatura+3

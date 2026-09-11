@@ -9,7 +9,8 @@ def detectarTemperatura(lectura,consigna):
         return False
 
     #Implementar una funcion que sume 2 numeros, devuelve la suma
-def sumarNumeros(a, b):
-    return a + b
+def sumarNumeros(numero1,numero2):
+    return numero1+numero2
+
 
 

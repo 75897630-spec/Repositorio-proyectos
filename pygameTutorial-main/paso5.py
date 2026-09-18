@@ -10,7 +10,7 @@ pygame.init()
 ANCHO_VENTANA = 800
 ALTO_VENTANA = 600
 pantalla = pygame.display.set_mode((ANCHO_VENTANA, ALTO_VENTANA))
-pygame.display.set_caption("Paso 5: Najat Maldonado ")
+pygame.display.set_caption("Paso 5: Najat Maldonado")
 
 # Herramienta vital para controlar la velocidad de los fotogramas (FPS)
 reloj = pygame.time.Clock()
